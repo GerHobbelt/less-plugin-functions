@@ -170,7 +170,7 @@ For an average Less source code the performance difference is insignificant (unl
 
 To deliver its functionality this plugin has to use certain hackish tricks and methods a standard Less plugin is not supposed to use (simply because a standard Less plugin is not supposed to provide such functionality at all). This makes the plugin to be quite vulnerable to possible compiler internals changes, thus it's more tied to a particular Less version than a typical plugin would be.
 
-_Currently supported Less versions are `2.4.0` and `2.5.0` (`2.5.0` is recommended)._
+_Currently supported Less versions are `2.4.0`...`2.5.1` (`2.5.x` is recommended)._
 
 ## Future
 
